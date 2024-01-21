@@ -1,5 +1,5 @@
 #Estatística Computacional – Regressão Linear com o R
-#########################################################
+##########################################################
 
 
 rm(list = ls()) #Limpa memória do R

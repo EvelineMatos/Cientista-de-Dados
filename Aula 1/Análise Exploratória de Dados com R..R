@@ -1,4 +1,4 @@
-####### Análise exploratória de dados #######
+####### Análise exploratória de dados #########
 
 
 rm(list=ls(all=TRUE)) #Remove objetos da memória do R
